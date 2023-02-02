@@ -3,7 +3,7 @@
 </div>  
   
  <div align="center">
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
  </div>
 
 ### <div align="center">I’m an Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
