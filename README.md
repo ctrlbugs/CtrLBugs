@@ -3,7 +3,9 @@
 </div>  
  
 <br/>  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square) 
+<br/>  
 
  
  ## Connect with me  
