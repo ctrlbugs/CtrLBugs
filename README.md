@@ -2,7 +2,9 @@
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
- https://rishavanand.github.io/static/images/greetings.gif
+ <div align="center">
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+ </div>
 
 ### <div align="center">I’m an Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
 
