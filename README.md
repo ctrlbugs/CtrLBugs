@@ -60,45 +60,16 @@
 </div>  
 
 
- 
-  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square)  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-<br/>  
-
-
-
-
-<br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ctrlbugs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-<br/>  
-
-
-
-
-<br/>  
- 
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
 
