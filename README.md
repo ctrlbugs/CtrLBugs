@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
- ![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square)  
 </div>  
+![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square)  
 <br/>  
 
  
