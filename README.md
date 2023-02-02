@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
+ ![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square)  
 </div>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square)  
  
  ## Connect with me  
 <a href="https://github.com/ctrlbugs" target="_blank">
