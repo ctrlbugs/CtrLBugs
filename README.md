@@ -3,7 +3,7 @@
 </div>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=IamAzeeH&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square)  
  
  ## Connect with me  
 <a href="https://github.com/ctrlbugs" target="_blank">
