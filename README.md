@@ -2,10 +2,6 @@
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
- <div align="center">
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
- </div>
-
 ### <div align="center">I’m an Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
 
 I specialize in building robust backends and System designs,  I love designing systems that are light yet powerful, distributed yet synchronized, I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization  and also promising technologies like Blockchain & Web3. </div>  
@@ -26,10 +22,10 @@ I specialize in building robust backends and System designs,  I love designing s
 -  👯 I’m looking to collaborate on - <strong>Designing and maintaining software systems. Evaluating and testing new software programs. Optimizing software for speed and scalability. Writing and testing code. Consulting with clients, engineers, business entities, security specialists, and other stakeholders.</strong></p>   
   
 
-- 📫 How to reach me: - <strong><a href="mailto:Iamazeeh@gmail.com">Iamazeeh@gmail.com</a></strong></p>   
+- 📫 How to reach me: - <strong><a href="mailto:Azee@techie.com">Azee@techie.com</a></strong></p>   
   
 
-- ⚙️ My projects - are available at <a href="https://github.com/IamAzeeH?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>    
+- ⚙️ My projects - are available at <a href="https://github.com/ctrlbugs?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>    
   
 
 <br/>  
@@ -72,16 +68,16 @@ I specialize in building robust backends and System designs,  I love designing s
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/IamAzeeH" target="_blank">
+<a href="https://github.com/ctrlbugs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/IamAzeeH" target="_blank">
+<a href="https://twitter.com/ctrlbugs" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/IamAzeeH" target="_blank">
+<a href="https://dev.to/ctrlbugs" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/IamAzeeH" target="_blank">
+<a href="https://linkedin.com/in/ctrlbugs" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/IamAzeeH" target="_blank">
@@ -97,15 +93,12 @@ I specialize in building robust backends and System designs,  I love designing s
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbugs&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ctrlbugs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
@@ -114,7 +107,7 @@ I specialize in building robust backends and System designs,  I love designing s
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=IamAzeeH&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square" align="center" />
 </div>  
   
 
@@ -124,4 +117,3 @@ I specialize in building robust backends and System designs,  I love designing s
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
