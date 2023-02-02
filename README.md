@@ -41,7 +41,7 @@
 - 📫 How to reach me: - <strong><a href="mailto:azee@techie.com">azee@techie.com</a></strong>
   
 
-- ⚙️ My projects - are available at <a href="https://github.com/IamAzeeH?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>  
+- ⚙️ My projects - are available at <a href="https://github.com/ctrlbugs?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>  
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
