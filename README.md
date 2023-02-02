@@ -70,9 +70,4 @@
 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ctrlbugs&&style=flat-square" align="center" />
-</div>  
-  
-
 
